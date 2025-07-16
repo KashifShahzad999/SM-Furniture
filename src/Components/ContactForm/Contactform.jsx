@@ -165,8 +165,7 @@ function Contactform() {
                       Find Us on Google Map
                     </h2>
                     <p>
-                      We're conveniently located at Imtiaz Mall, Service Road,
-                      Street # 11, Near Madina Hotel, Gulberg Green , Islamabad,
+                      We're conveniently located at A1/32,Satellite Town Zafar Ullah Chowk,Sargodha,
                       Pakistan. You can find us easily using the map below.
                     </p>
                     <div className="map_bind">
