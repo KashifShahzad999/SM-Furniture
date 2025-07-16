@@ -21,7 +21,7 @@ function Navbar() {
             duration={500}
             className="navbar-brand"
           >
-            <img src="public/assets/img/logo.jpg" alt="Logo Image" />
+            <img src="/assets/img/logo.jpg" alt="Logo Image" />
           </ScrollLink>
           <ul className={`nav-list ${isHamburgerActive ? "active" : ""}`}>
             <li className="nav-item">
