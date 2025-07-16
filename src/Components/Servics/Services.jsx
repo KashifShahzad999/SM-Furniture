@@ -41,13 +41,13 @@ function Services() {
     {
       id: 2,
       url: "/assets/img/home-image-1.jpg",
-      title: "Sofa",
+      title: "Bed",
       desc: "Luxurious sofa for stylish relaxation",
       link: "/sofa-detail",
     },
     {
       id: 3,
-      url: "/assets/img/bed-img.png",
+      url: "/assets/img/bed-img.JPG",
       title: "Bed",
       desc: "Elegant bed frame for a cozy bedroom ambiance.",
       link: "/beds-detail",
