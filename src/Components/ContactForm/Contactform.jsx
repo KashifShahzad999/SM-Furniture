@@ -137,7 +137,7 @@ function Contactform() {
                       <h4>Contact Info</h4>
                       <div className="d-flex info_single align-items-center">
                         <i className="fas fa-headset"></i>
-                        <span> 048-3252932</span>
+                        <span> 048-3252803</span>
                       </div>
                       <div className="d-flex info_single align-items-center">
                         <i className="fas fa-envelope-open-text"></i>
