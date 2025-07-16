@@ -67,7 +67,7 @@ function Footer() {
                     <IoMdCall />
                   </span>
                   <p className="ml-3 mb-0 mt-2">
-                    <a href="tel:+923315629774"> 042-37483335</a>
+                    <a href="tel:+923315629774">048-3252803</a>
                   </p>
                 </div>
               </div>
