@@ -6,7 +6,7 @@ import { FloatingWhatsApp } from "react-floating-whatsapp";
 
 function Footer() {
   const whatsappProps = {
-    accountName: "LSFurniture",
+    accountName: "SMFurniture",
     phoneNumber: "+92 331569774",
     darkMode: false,
     avatar: "/assets/img/favicon.svg",
