@@ -151,7 +151,7 @@ function Sofa() {
                               }}
                             >
                               <img
-                                src="/assets/img/sofa-2.jpeg"
+                                src="/assets/img/Table-1.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -235,7 +235,7 @@ function Sofa() {
                               <div
                                 className="small-images"
                                 style={{
-                                  background: "url(/assets/img/sofa-2.jpeg)",
+                                  background: "url(/assets/img/Table-1.JPG)",
                                 }}
                               ></div>
                             </a>

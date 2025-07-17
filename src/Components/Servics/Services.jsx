@@ -33,7 +33,7 @@ function Services() {
   const images = [
     {
       id: 1,
-      url: "/assets/img/slider-chair.webp",
+      url: "/assets/img/slider-chair.JPG",
       title: "Chair",
       desc: "Sleek and comfortable chair for modern living spaces.",
       link: "/chairs-detail",
