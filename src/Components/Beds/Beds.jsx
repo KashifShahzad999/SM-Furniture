@@ -151,7 +151,7 @@ function Beds() {
                               }}
                             >
                               <img
-                                src="/assets/img/bed-2.jpeg"
+                                src="/assets/img/bed-2.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -167,7 +167,7 @@ function Beds() {
                               }}
                             >
                               <img
-                                src="/assets/img/bed-3.jpeg"
+                                src="/assets/img/bed-3.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -183,7 +183,7 @@ function Beds() {
                               }}
                             >
                               <img
-                                src="/assets/img/bed-1.jpeg"
+                                src="/assets/img/bed-1.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -199,7 +199,7 @@ function Beds() {
                               }}
                             >
                               <img
-                                src="/assets/img/slider-bed.webp"
+                                src="/assets/img/bed-img.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -235,7 +235,7 @@ function Beds() {
                               <div
                                 className="small-images"
                                 style={{
-                                  background: "url(/assets/img/bed-2.jpeg)",
+                                  background: "url(/assets/img/bed-2.JPG)",
                                 }}
                               ></div>
                             </a>
@@ -249,7 +249,7 @@ function Beds() {
                               <div
                                 className="small-images"
                                 style={{
-                                  background: "url(/assets/img/bed-3.jpeg)",
+                                  background: "url(/assets/img/bed-3.JPG)",
                                 }}
                               ></div>
                             </a>
@@ -263,7 +263,7 @@ function Beds() {
                               <div
                                 className="small-images"
                                 style={{
-                                  background: "url(/assets/img/bed-1.jpeg)",
+                                  background: "url(/assets/img/bed-1.JPG)",
                                 }}
                               ></div>
                             </a>
@@ -278,7 +278,7 @@ function Beds() {
                                 className="small-images"
                                 style={{
                                   background:
-                                    "url(/assets/img/slider-bed.webp)",
+                                    "url(/assets/img/bed-img.JPG)",
                                 }}
                               ></div>
                             </a>
