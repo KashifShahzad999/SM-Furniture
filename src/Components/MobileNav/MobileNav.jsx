@@ -38,7 +38,7 @@ function MobileNav() {
             duration={500}
             className="navbar-brand"
           >
-            <img src=" /assets/img//assets/img/logo.svg" alt="Logo Image" />
+            <img src=" /assets/img/logo.jpg" alt="Logo Image" />
           </ScrollLink>
           {/* <ul className={`nav-list ${isHamburgerActive ? 'active' : ''}`}>
                         <li className="nav-item">
@@ -88,7 +88,7 @@ function MobileNav() {
               <Offcanvas.Title>
                 <img
                   className="Logo-image-mobile"
-                  src=" /assets/img//assets/img/logo.svg"
+                  src="/assets/img/logo.jpg"
                   alt="LogoImage"
                 />
               </Offcanvas.Title>
