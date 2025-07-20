@@ -34,7 +34,7 @@ function Services() {
     {
       id: 1,
       url: "/assets/img/slider-chair.JPG",
-      title: "Chair",
+      title: "Bed",
       desc: "Sleek and comfortable chair for modern living spaces.",
       link: "/chairs-detail",
     },
