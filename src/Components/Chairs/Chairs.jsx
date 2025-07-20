@@ -163,7 +163,7 @@ function Chairs() {
                               }}
                             >
                               <img
-                                src="/assets/img/dining-chair-4.webp"
+                                src="/assets/img/bed-detail.JPG"
                                 style={{
                                   width: "100%",
                                   height: "auto",
@@ -248,7 +248,7 @@ function Chairs() {
                                 className="small-images"
                                 style={{
                                   background:
-                                    "url(/assets/img/dining-chair-4.webp)",
+                                    "url(/assets/img/bed-detail.JPG)",
                                 }}
                               ></div>
                             </a>

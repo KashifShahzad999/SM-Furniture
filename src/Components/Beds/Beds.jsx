@@ -297,18 +297,18 @@ function Beds() {
 
                 <div className="d-flex flex-row">
                   <div className="p-2">
-                    <b className="">Rs.65000 </b>
+                    <b className="">RS. 220000</b>
                   </div>
                   {/* <div className="p-2">
                     <b className="">Rs.45000</b>
                   </div> */}
                   <div className="p-2">
-                    <button className="t4s-badge-price">SAVE 15%</button>
+                    <button className="t4s-badge-price">SAVE 20%</button>
                   </div>
                 </div>
 
                 <p>
-                  Indulge in opulent relaxation with our exquisite collection of
+                 Decent Bed set  price 275000  after  20 disct 220000, Indulge in opulent relaxation with our exquisite collection of
                   beds, available in a variety of luxurious finishes and styles.
                   Immerse yourself in comfort with our sumptuous velvet beds,
                   adorned with soft upholstery in a spectrum of lavish shades,
